@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Picture Quiz</string>
+    <string name="imageone">imageOne</string>
+    <string name="giraffe">giraffe</string>
+    <string name="frog">frog</string>
+    <string name="monkeys">monkeys</string>
+    <string name="check">check</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+</resources>
